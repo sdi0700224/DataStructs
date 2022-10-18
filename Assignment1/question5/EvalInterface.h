@@ -1,0 +1,1 @@
+int inf_eval(char[]); 	//Takes an infix expresion and evaluates it
